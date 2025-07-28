@@ -1,5 +1,10 @@
 // Test Codes
 
 const getMe = (user) => {
-  user.name;
+return user.name;
 };
+
+const likePost = () => {
+ return true;
+};
+
