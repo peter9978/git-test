@@ -8,3 +8,6 @@ const likePost = () => {
  return true;
 };
 
+const likePost11 = () => {
+ return true;
+};
