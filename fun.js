@@ -8,6 +8,6 @@ const likePost = () => {
  return true;
 };
 
-const likePost11 = () => {
- return true;
+const AuthEn = (user) => {
+ return user.pass;
 };
