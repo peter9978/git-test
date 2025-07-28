@@ -13,3 +13,7 @@ const getMe = (user) => {
 const addCourse = (course) => {
   return true;
 };
+
+const setTicket = () => {
+  return true;
+};
