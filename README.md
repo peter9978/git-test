@@ -1,6 +1,6 @@
 # Sabzlearn Git Course Repo
 
-##This Repo is for session 54 of Sabzlearn git Course :))
+## This Repo is for session 54 of Sabzlearn git Course :))
 
 ---
 
